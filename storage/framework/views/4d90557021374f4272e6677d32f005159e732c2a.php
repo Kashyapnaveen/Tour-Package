@@ -1,0 +1,1 @@
+welcome home page<?php /**PATH F:\PHP TASK DAILY\FRONTEND\laravel_call_api\resources\views/home.blade.php ENDPATH**/ ?>
